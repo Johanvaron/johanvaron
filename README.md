@@ -23,11 +23,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=johanvaron&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
-## 💰 You can help me by Donating
-<div>
-  <a href="https://paypal.me/johan471">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
