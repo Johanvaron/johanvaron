@@ -101,12 +101,12 @@ class JohanVaron:
 ### &nbsp;📊&nbsp; GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Johanvaron&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2563EB&icon_color=EF4444&text_color=C9D1D9&bg_color=0D1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanvaron&layout=compact&hide_border=true&langs_count=8&title_color=2563EB&text_color=C9D1D9&bg_color=0D1117" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Johanvaron&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2563EB&icon_color=EF4444&text_color=C9D1D9&bg_color=0D1117&cache_seconds=14400" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanvaron&layout=compact&hide_border=true&langs_count=8&title_color=2563EB&text_color=C9D1D9&bg_color=0D1117&cache_seconds=14400" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Johanvaron&hide_border=true&background=0D1117&stroke=2563EB&ring=EF4444&fire=EF4444&currStreakLabel=2563EB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Johanvaron&hide_border=true&background=0D1117&stroke=2563EB&ring=EF4444&fire=EF4444&currStreakLabel=2563EB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="streak"/>
 </p>
 
 <p align="center">
