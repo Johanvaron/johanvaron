@@ -95,41 +95,6 @@ class JohanVaron:
 <br/>
 
 <!-- ===================================================== -->
-<!--                   PROJECTS                            -->
-<!-- ===================================================== -->
-
-### &nbsp;🚀&nbsp; Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🟦 AdForge</h4>
-      Generación de creativos publicitarios con IA a escala.<br/>
-      <sub><code>Python · FastAPI · Claude · Next.js · Meta Ads</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔴 AdVeriFlow &nbsp;<sup>live</sup></h4>
-      Agentes de voz por WhatsApp en tiempo real · STT → LLM → TTS.<br/>
-      <sub><code>FastAPI · Pipecat · Deepgram · Gemini · ElevenLabs · WebRTC</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🟦 Adastra</h4>
-      Plataforma SaaS full-stack con automatización.<br/>
-      <sub><code>FastAPI · Next.js · PostgreSQL · Redis</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🟦 MasterKey</h4>
-      API multi-tenant + ingesta de datos + agente IA.<br/>
-      <sub><code>FastAPI · Celery · PostgreSQL · Next.js</code></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ===================================================== -->
 <!--                     STATS                             -->
 <!-- ===================================================== -->
 
