@@ -1,185 +1,155 @@
 <!-- ===================================================== -->
-<!--                     HERO SECTION                       -->
+<!--                      HERO                             -->
 <!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=220&section=header&text=Johan%20Varón&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI%20Systems%20Engineer&descAlignY=60&descColor=FFFFFF&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=210&section=header&text=Johan%20Var%C3%B3n&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=AI%20Systems%20%26%20Full-Stack%20Engineer&descAlignY=60&descColor=FFFFFF&descSize=20" alt="Johan Varón"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-native+SaaS;Voice+AI+Systems;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Docker;Backend+Architecture;Self-hosted+Infrastructure"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Building+AI-native+SaaS;Real-time+Voice+AI+Systems;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Docker;Self-hosted+Infrastructure" alt="typing"/>
 </p>
 
 <p align="center">
-  <a href="https://ecommafia.org">
-    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-
-  <a href="mailto:admin@ecommafia.org">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Johanvaron">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Johanvaron&style=for-the-badge&color=2563EB"/>
+  <a href="https://ecommafia.org"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:admin@ecommafia.org"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Johanvaron"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Johanvaron&style=for-the-badge&label=Views&color=2563EB" alt="views"/>
 </p>
 
----
+<br/>
 
-# 👋 About Me
+<!-- ===================================================== -->
+<!--                     ABOUT                             -->
+<!-- ===================================================== -->
+
+### &nbsp;👋&nbsp; About me
 
 ```python
 class JohanVaron:
-
-    role = "AI Systems Engineer"
-
-    focuses = [
-        "AI-native SaaS",
-        "Voice AI",
-        "Backend Architecture",
-        "Automation",
-        "DevOps",
-        "Self-hosted Infrastructure"
-    ]
-
-    currently_building = [
-        "Real-time AI Agents",
-        "Voice AI Platforms",
-        "Scalable SaaS",
-        "Production APIs"
-    ]
+    role     = "AI Systems & Full-Stack Engineer"
+    builds   = ["AI-native SaaS", "Real-time Voice AI", "Production APIs"]
+    stack    = ["Python", "TypeScript", "FastAPI", "Next.js", "Docker"]
+    approach = "idea  →  diseño  →  producción"
 ```
 
-I build complete AI products from **idea → production**.
+> Construyo productos de IA de punta a punta: **agentes de voz en tiempo real**,
+> plataformas **SaaS multi-tenant** y la **infraestructura self-hosted** que las sostiene.
 
-My work combines:
+<br/>
 
-- 🤖 AI Agents
-- 🎙️ Voice Systems
-- 🚀 SaaS Platforms
-- ⚙️ Backend Engineering
-- 🐳 DevOps
-- ☁️ Cloud Infrastructure
+<!-- ===================================================== -->
+<!--                   TECH STACK                          -->
+<!-- ===================================================== -->
 
----
-
-# 🚀 Current Focus
-
-- 🧠 AI Agents
-- 🎙️ Voice AI
-- ⚡ FastAPI
-- 🚀 Next.js
-- 🐳 Docker
-- 🔄 Automation
-- ☁️ Self-hosting
-- 📦 Multi-tenant SaaS
-
----
-
-# 🛠 Tech Stack
-
-## Languages
+### &nbsp;🛠️&nbsp; Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,html,css"/>
-</p>
-
----
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,vite"/>
-</p>
-
----
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,nextjs,react,vue,angular,tailwind,html,css&perline=11" alt="languages & frontend"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,mongodb,redis,docker,linux,git,github&perline=10" alt="backend, data & infra"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge"/>
-
+  <sub><b>+ también</b></sub><br/>
+  <img src="https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Celery-0D1117?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Uvicorn-0D1117?style=flat-square&logo=gunicorn&logoColor=white" alt="Uvicorn"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/MinIO-0D1117?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
+  <img src="https://img.shields.io/badge/Caddy-0D1117?style=flat-square&logo=caddy&logoColor=white" alt="Caddy"/>
+  <img src="https://img.shields.io/badge/PM2-0D1117?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
 </p>
 
----
+<br/>
 
-## Databases
+<!-- ===================================================== -->
+<!--                   AI & VOICE                          -->
+<!-- ===================================================== -->
+
+### &nbsp;🤖&nbsp; AI &amp; Voice
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-
+  <img src="https://img.shields.io/badge/Claude-EF4444?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-EF4444?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Groq-EF4444?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Deepgram-EF4444?style=for-the-badge&logo=deepgram&logoColor=white" alt="Deepgram"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-EF4444?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
+  <img src="https://img.shields.io/badge/WebRTC-EF4444?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/Pipecat-EF4444?style=for-the-badge&logoColor=white" alt="Pipecat"/>
 </p>
 
----
+<br/>
 
-## Infrastructure
+<!-- ===================================================== -->
+<!--                 INTEGRATIONS                          -->
+<!-- ===================================================== -->
+
+### &nbsp;🔌&nbsp; Integrations
 
 <p align="center">
+  <img src="https://img.shields.io/badge/WhatsApp_Business-2563EB?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business"/>
+  <img src="https://img.shields.io/badge/Shopify-2563EB?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/Meta_Ads-2563EB?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github"/>
+<br/>
 
+<!-- ===================================================== -->
+<!--                   PROJECTS                            -->
+<!-- ===================================================== -->
+
+### &nbsp;🚀&nbsp; Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🟦 AdForge</h4>
+      Generación de creativos publicitarios con IA a escala.<br/>
+      <sub><code>Python · FastAPI · Claude · Next.js · Meta Ads</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔴 AdVeriFlow &nbsp;<sup>live</sup></h4>
+      Agentes de voz por WhatsApp en tiempo real · STT → LLM → TTS.<br/>
+      <sub><code>FastAPI · Pipecat · Deepgram · Gemini · ElevenLabs · WebRTC</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🟦 Adastra</h4>
+      Plataforma SaaS full-stack con automatización.<br/>
+      <sub><code>FastAPI · Next.js · PostgreSQL · Redis</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🟦 MasterKey</h4>
+      API multi-tenant + ingesta de datos + agente IA.<br/>
+      <sub><code>FastAPI · Celery · PostgreSQL · Next.js</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================================================== -->
+<!--                     STATS                             -->
+<!-- ===================================================== -->
+
+### &nbsp;📊&nbsp; GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Johanvaron&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2563EB&icon_color=EF4444&text_color=C9D1D9&bg_color=0D1117" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanvaron&layout=compact&hide_border=true&langs_count=8&title_color=2563EB&text_color=C9D1D9&bg_color=0D1117" alt="top langs"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge"/>
-
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Johanvaron&hide_border=true&background=0D1117&stroke=2563EB&ring=EF4444&fire=EF4444&currStreakLabel=2563EB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="streak"/>
 </p>
-
----
-
-# 🤖 AI Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deepgram-13B5EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WebRTC-0A84FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pipecat-EF4444?style=for-the-badge"/>
-
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johanvaron&hide_border=true&bg_color=0D1117&color=FFFFFF&line=2563EB&point=EF4444&area=true&area_color=2563EB" alt="activity graph"/>
 </p>
 
----
+<!-- ===================================================== -->
+<!--                    FOOTER                             -->
+<!-- ===================================================== -->
 
-# 🔌 Integrations
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:EF4444&height=110&section=footer" alt="footer"/>
